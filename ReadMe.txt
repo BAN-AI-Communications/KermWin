@@ -27,3 +27,4 @@ appropriate distribution directory.
 
 You will notice that the source code has support for WIN16.
 However, this is deprecated.
+Codacy Badge
