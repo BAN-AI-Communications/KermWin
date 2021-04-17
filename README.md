@@ -1,5 +1,7 @@
 # KermWin (Kermit for Windows)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fec53f8291c44034bdd540e26d33d20d)](https://app.codacy.com/gh/BAN-AI-Communications/KermWin?utm_source=github.com&utm_medium=referral&utm_content=BAN-AI-Communications/KermWin&utm_campaign=Badge_Grade_Settings)
+
 ## Introduciton
 
 This is the source tree for Kermit for Windows.
