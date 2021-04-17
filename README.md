@@ -27,9 +27,9 @@ not usable because Microsoft no longer supports the format.
 This will be converted to a PDF file in the future.
 
 Also note that the make files have a concept of building
-a self extracting zip file for distribution.  This is
-no longer working.  The distribution files can be put in a
-zip file manually.  To install the application, jsut
+a self extracting zip file for distribution. This is
+no longer working. The distribution files can be put in a
+zip file manually. To install the application, jsut
 run the Setup.exe application that is created in the
 appropriate distribution directory.
 
