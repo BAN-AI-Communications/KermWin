@@ -1,4 +1,10 @@
+# KermWin (Kermit for Windows)
+
+## Introduciton
+
 This is the source tree for Kermit for Windows.
+
+## Building
 
 To build the application, start a Visual Studio 2017
 command prompt by selecting "x86 Native Tools Command Prompt for VS 2017"
@@ -7,12 +13,14 @@ from the start menu after installing VS 2017.
 Navigate to this directory and use the following
 commands to build the application:
 
-makekerm win32dbg
-makekerm win32rel
+`makekerm win32dbg`
+`makekerm win32rel`
 
 The build process will use the Build directory as a work
 area during the build and will place the final distributable
 file in the Disk directory.
+
+## Details
 
 Note that the original Kermit for Windows help file is
 not usable because Microsoft no longer supports the format.
